@@ -1,0 +1,7 @@
+{
+  "name": "vista1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
